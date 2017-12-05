@@ -6,3 +6,12 @@ body {
 header {
     font-size: 22pt;
 }
+h1 {
+   font-weight: 300;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   background: #33bebe;
+   color: white;
+   margin-bottom: 1em;
+   padding: 0.5em 1em; 
+}
