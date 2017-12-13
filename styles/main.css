@@ -19,13 +19,10 @@ div {
     display: block;
 }
 .image-box {
-    position: relative;
+    display: block;
     height: 300px;
     margin-top: 1rem;
     margin-bottom: 1rem;
-}
-div {
-    display: block;
 }
 .footer {
     background-color: #9AC8AE;
