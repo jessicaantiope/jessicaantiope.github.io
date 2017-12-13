@@ -1,6 +1,13 @@
-.image-box {
-    position: relative;
-    height: 300px;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+.header {
+    background: #9AC8AE
+
+}
+html {
+    position: relative
+}
+body {
+    background: #0343
+}
+font {
+    font-family: 'Muli', sans-serif 
 }
