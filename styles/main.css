@@ -45,3 +45,23 @@ div {
     margin-left: 2%;
     margin-right: 2%;
 }
+.t3 {
+    position: relative;
+    width: 400px;
+    Height: 300px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.t3 { 
+    position: absolute;
+    width: auto;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+    margin: auto;
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;
+}
